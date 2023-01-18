@@ -18,7 +18,7 @@
 
   <a href="">
     <img 
-          src="img/login.png" 
+          src="img/Login.png" 
           alt="Everything Is AWESOME" 
           style="width:100%; ">
   </a>
