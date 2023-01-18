@@ -1,0 +1,107 @@
+/*cabeçalho*/
+#logo {
+
+    width: 70px;
+    height: 70px;
+}
+
+/*banner*/
+#section-banners {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#section-banners img {
+    height: 500px;
+}
+
+/*Produtos vendidos*/
+.card img {
+    height: 300px;
+    border-radius: 5px;
+}
+
+#section-vendidos {
+    text-align: center;
+}
+
+#section-vendidos h2 {
+    padding: 20px;
+}
+
+#section-vendidos .preco {
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+}
+
+/*Rodapé*/
+#rodape {
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+/*Botão Voltar topo*/
+#voltar-topo {
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+}
+
+/* página de login  */
+#section-login h1 {
+    text-align: center;
+}
+
+#section-login label {
+    text-align: left;
+}
+
+#section-login #bt-login {
+    width: 200px;
+}
+
+#botao-cadastrar {
+    text-align: center;
+}
+
+
+/* Formulário de cadastro*/
+#section-cadastro h1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#section-cadastro h6 {
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 40px;
+    font-weight: normal;
+}
+
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
+
+#cadastro label {
+    text-align: left;
+
+}
+
+#section-cadastro #bt-cadastrar {
+    width: 200px;
+}
+
+/*Rodapé*/
+.rodapeCadastro {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+}
