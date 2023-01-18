@@ -10,7 +10,7 @@
   <h4>index </h4>
   <a href="">
     <img 
-          src="img/index.PNG" 
+          src="img/index.png" 
           alt="Everything Is AWESOME" 
           style="width:100%;">
   </a>
@@ -18,7 +18,7 @@
 
   <a href="">
     <img 
-          src="img/login.PNG" 
+          src="img/login.png" 
           alt="Everything Is AWESOME" 
           style="width:100%; ">
   </a>
@@ -27,7 +27,7 @@
   <h4>Cadastro </h4>
   <a href="">
     <img 
-          src="img/cadastro.PNG" 
+          src="img/cadastro.png" 
           alt="Everything Is AWESOME" 
           style="width:100%;">
   </a>
