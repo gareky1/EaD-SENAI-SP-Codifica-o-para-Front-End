@@ -4,7 +4,7 @@
 
 ### 07b - SP2 - Atividade 2: Desenvolvimento da página index / login-cadastro do site
 
-##Telas :
+##Telas 
 
   <div align="center">
   <h4>index </h4>
